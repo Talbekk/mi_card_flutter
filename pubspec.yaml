@@ -24,3 +24,11 @@ flutter:
 
   assets:
     - images/profile.jpeg
+
+  fonts:
+  - family: Comforter Brush
+    fonts:
+    - asset: fonts/ComforterBrush-Regular.ttf
+
+
+
